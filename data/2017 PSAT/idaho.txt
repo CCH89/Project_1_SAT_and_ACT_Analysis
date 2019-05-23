@@ -1,0 +1,545 @@
+Idaho
+AboutThisReport                                             CollegeandCareerReadinessBenchmarks
+Thisreportpresentsdataonstudentsintheclassof2017who          EachassessmentintheSATSuitehasanassociatedsetof
+tookthenewSAT®duringhighschool,aswellastakersof              metricscalledtheCollegeandCareerReadiness
+PSAT-relatedassessments--thePSAT/NMSQT®,PSATTM               Benchmarks.
+10,andPSATTM 8/9--acrossthe2016-17schoolyear.               · TheSATMathbenchmarkisthesectionscoreassociated
+Withineachassessment,testtakersarecountedonlyonce            witha75% chanceofearningatleastaCinfirst-semester,
+andonlytheirlatestscoresandmostrecentdemographic             credit-bearing,college-levelcoursesinalgebra,statistics,
+responsesaresummarized.(Moststudentssupplyoptional           precalculus,orcalculus.
+demographicinformationwhentheyregisterforortaketestsin      · TheSATEvidence-BasedReadingandWriting(ERW)
+theSATSuiteofAssessments,whichprovidesvaluable               benchmarkisassociatedwitha75% chanceofearningat
+contextualinformationtoaidininterpretingandunderstanding     leastaCinfirst-semester,credit-bearing,college-level
+individualandgroupscores.)                                   coursesinhistory,literature,socialscience,orwriting.
+Score Ranges                                                 Thegrade-levelbenchmarkscoresforPSAT-related
+                                                             assessmentsarebasedonexpectedstudentgrowthtoward
+Herearetherangesforreportedscoresforthe                      theSATbenchmarksateachgrade.WhileSATbenchmarks
+Evidence-BasedReadingandWriting(ERW)andMath                  indicatelikelihoodofsuccessincollege,grade-level
+sectionsofeachtestintheSATSuite:                             benchmarksindicatewhetherastudentisontrackforcollege
+                                                             andcareerreadinessfortheirgrade.Thebenchmarksareset
+· SATsections:200­800                                        toreflecttypicalannualgrowthfrom yeartoyearfrom 8th
+· PSAT/NMSQTandPSAT10sections:160­760                        through 12th grades.
+· PSAT8/9sections:120­720                                     CollegeandCareerReadinessBenchmarks
+RecentChangestoDataCollectionandReporting                     Assessment/Grade level         ERW               MathSection ScoreSection Score
+InJune2015,theCollegeBoardaligneditscollectionand             SAT                          480                530
+reportingofrace/ethnicitycategorieswithU.S.DepartmentofEducationguidelines.Inaddition,whilepreviousSATcohortGrade 11460510
+assignmentreflectedself-reportedinformationcollectedduring    Grade 10                     430                480
+SATorSATSubjectTestregistrationonly,itnowleveragesthemostrecentinformationfrom theSAT,PSAT-relatedassessment,orAPprogramsinanefforttomorecloselyalignGrade 9Grade 8410450390430
+withschool,district,andstatedatasystems.Forthesereasons,weadvisecautionwhencomparingdatapointsinthisreporttothoseinpreviousreports.ThenewSATSuitebenchmarkoutcomesshouldnotbecomparedagainstresultsfrom theoldSATorPSAT/NMSQT,asthescorescaleandbenchmarkdefinitionshavechanged.
+CaveatonUsingtheData                                         Benchmarkstatisticsarereportediftherearetenormore
+The College Board strongly discourages using scores to       students in a group or subgroup.
+compareorevaluateteachers,schools,districts,orstates,
+becauseofdifferencesinparticipationandtesttaker             AbouttheCollegeBoard
+populations.Relationshipsbetweentestscoresandother
+backgroundorcontextualfactorsarecomplexand                   TheCollegeBoardisamission-drivennot-for-profit
+interdependent.                                              organizationthatconnectsstudentstocollegesuccessand
+                                                             opportunity.Foundedin1900,theCollegeBoardwascreated
+StatisticalDefinitions                                       toexpandaccesstohighereducation.Today,themembershipassociationismadeupofover6,000oftheworld'sleading
+Meanscore:Themeanscoreisthearithmeticaverageofadefinedsetoftestscores.Meanscorestatisticsarereportedhereiftherearetenormorestudentsinagrouporsubgroup.educationalinstitutionsandisdedicatedtopromotingexcellenceandequityineducation.Eachyear,theCollegeBoardhelpsmorethansevenmillionstudentsprepareforasuccessfultransitiontocollegethroughprogramsandservices
+Scaledscore:Ascaledscoreistheresultofadjustingarawscore(thenumberofquestionsansweredcorrectly)inwaysthatensurethatresultsacrossdifferenttestformsarecomparable.Thescoresshownhereandreportedtoeducators,students,andinstitutionsarescaledscores.incollegereadinessandcollegesuccess--includingtheSAT®andtheAdvancedPlacementProgram®(AP®).Theorganizationalsoservestheeducationcommunitythroughresearchandadvocacyonbehalfofstudents,educatorsandschools.Forfurtherinformation,visitwww.collegeboard.org.
+Standarddeviation(SD):Thestandarddeviationisameasureofthevariabilityofasetofscores.Iftestscoresclustertightlyaroundthemeanscore,astheydowhenthegrouptestedisrelativelyhomogeneous,thestandarddeviationissmallerthanitwouldbewithamorediversegroupandamorewidelydisperseddistributionofscores.©2017TheCollegeBoard.CollegeBoard,AP,SAT,andtheacornlogoareregisteredtrademarksoftheCollegeBoard.PSAT/NMSQTisaregisteredtrademarkoftheCollegeBoardandNationalMeritScholarshipCorporation.PSATandSATSubjectTestsaretrademarksownedbytheCollegeBoard.Allothermarksarethepropertyoftheirrespectiveowners.VisittheCollegeBoardontheweb:collegeboard.org.
+                                                                                                        2017SATSuiteAnnualReport
+                                                                                                                               Idaho
+
+SATSuiteParticipationSummary
+TheSATSuiteofAssessments-- theSAT(grades12and11),PSAT/NMSQTandPSAT10(grades11and10),andPSAT
+8/9(grades9and8)-- measuresastudent'scollegeandcareerreadiness.Together,theseassessmentsprovidea
+comprehensivesolutionthatsystematicallyandprogressivelymeasurestheknowledge,skills,andunderstandingsessential
+for success in college and career.
+
+      44,101testtakerscompletedtheSAToraPSAT-relatedassessment
+      (PSAT/NMSQT,PSAT10,orPSAT8/9)inthe2016-17schoolyear.
+
+   Classof2017
+   SAT Takers¹                                  18,757                                         93% ofgraduates
+   HighSchoolGraduates²                         20,164SAT Participation Rate93%                intheclassof2017took the SAT duringhigh school
+
+   Classof2018
+   PSAT/NMSQT Takers³                            7,117                                         31% of11thgraders
+   11th-GradeEnrollment²                        22,667                                         took the
+   Participation Rate                             31%                                          PSAT/NMSQT last
+                                                                                               fall
+
+   Classof2019
+   PSAT/NMSQTorPSAT10Takers³                    19,169                                         82% of10thgraders
+   10th-GradeEnrollment²                        23,462Participation Rate82%                    took thePSAT/NMSQT orPSAT 10
+                                                                                               in 2016-17
+
+   Classof2020
+   PSAT 8/9 Takers³                                891                                         4% of9thgraders
+   9th-GradeEnrollment²                         23,986                                         took the PSAT 8/9
+   Participation Rate                               4%                                         in 2016-17
+
+   Classof2021
+   PSAT 8/9 Takers³                                391                                         2% of8thgraders
+   8th-GradeEnrollment²                         23,199                                         took the PSAT 8/9
+   Participation Rate                               2%                                         in 2016-17
+
+¹Reflects2017highschoolgraduateswhotookthenewSATduringhighschool.
+²KnockingattheCollegeDoor,WICHE,December2016.
+³PSAT-relatedassessmentdatareflectstudentswhotestedduringthe2016-17schoolyear.
+                                                                                                               2017SATSuiteAnnualReport
+                                                                                                                                           Idaho
+
+SATParticipationandPerformance
+Datareflect2017highschoolgraduateswhotookthenewSATduringhighschool.IfastudenttooktheSATmorethanonce,the
+mostrecentscoreandself-reportedSATquestionnaireresponsesaresummarized.
+
+   Total                                       TestTakers                Mean Score                                     MetBenchmarks
+                                           Number     Percent      Total     ERW        Math                    Both      ERW        Math       None
+    Total                                   18,757                 1005        513       493                    34%        63%        36%       35%
+      Took Essay¹                           18,102       97%       1007        514       494                    34%        63%        36%       35%
+
+   Race/Ethnicity                              TestTakers                Mean Score                                     MetBenchmarks
+                                           Number     Percent      Total     ERW        Math                    Both      ERW        Math       None
+    AmericanIndian/AlaskaNative                266        1%        891        452       438                    16%        35%        17%       64%
+    Asian                                      316        2%       1106        544       561                    51%        72%        58%       21%
+    Black/AfricanAmerican                      181        1%        882        453       430                    13%        39%        14%       59%
+    Hispanic/Latino                          2,821       15%        922        471       452                    17%        44%        19%       55%
+    NativeHawaiian/OtherPacificIslander         44        0%        976        492       484                    34%        55%        39%       41%
+    White                                   12,578       67%       1037        529       508                    40%        70%        42%       28%
+    TwoorMoreRaces                             468        2%       1032        527       505                    38%        70%        40%       28%
+    No Response                              2,083       11%        929        473       455                    19%        49%        21%       49%
+
+   Sex                                         TestTakers                Mean Score                                     MetBenchmarks
+                                           Number     Percent      Total     ERW        Math                    Both      ERW        Math       None
+    Female                                   9,392       50%       1007        519       488                    32%        66%        33%       33%
+    Male                                     9,365       50%       1003        506       497                    35%        60%        38%       37%
+
+   FirstLanguageLearned                        TestTakers                Mean Score                                     MetBenchmarks
+                                           Number     Percent      Total     ERW        Math                    Both      ERW        Math       None
+    English Only                            14,728       79%       1026        524       502                    38%        68%        40%       30%
+    EnglishandAnotherLanguage                1,552        8%        932        473       459                    19%        45%        21%       54%
+    AnotherLanguage                            862        5%        926        463       462                    18%        40%        22%       56%
+    No Response                              1,615        9%        926        472       454                    20%        47%        22%       51%
+
+   HighestLevelofParentalEducation             TestTakers                Mean Score                                     MetBenchmarks
+                                           Number     Percent      Total     ERW        Math                    Both      ERW        Math       None
+    NoHighSchoolDiploma                        863        5%        881        447       434                    10%        34%        12%       65%
+    HighSchoolDiploma                        4,500       24%        976        499       477                    26%        59%        29%       39%
+    Associate Degree                         1,271        7%       1023        525       498                    35%        70%        36%       28%
+    Bachelor's Degree                        3,955       21%       1088        554       534                    52%        80%        54%       17%
+    Graduate Degree                          2,208       12%       1147        584       563                    62%        86%        64%       13%
+    No Response                              5,960       32%        934        475       458                    20%        49%        22%       49%
+
+   SATFeeWaiver                                TestTakers                Mean Score                                     MetBenchmarks
+                                           Number     Percent      Total     ERW        Math                    Both      ERW        Math       None
+    Usedatanypoint                             398        2%       1016        519       496                    31%        63%        34%       34%
+    Didnotuse                               18,359       98%       1005        512       492                    34%        63%        36%       35%
+
+¹ReflectstesttakerswhocompletedtheSATEssayatanypoint,notnecessarilyonthemostrecenttestadministrationdate.
+                                                                                                 2017SATSuiteAnnualReport
+                                                                                                                                                        Idaho
+
+SATParticipationandPerformanceContinued
+Datareflect2017highschoolgraduateswhotookthenewSATduringhighschool.IfastudenttooktheSATmorethanonce,the
+mostrecentscoreandself-reportedSATquestionnaireresponsesaresummarized.
+
+   HighSchoolGradePointAverage                 TestTakers                Mean Score                        MetBenchmarks
+                                           Number     Percent      Total     ERW        Math       Both      ERW                                  Math      None
+    A+ (97­100)                                779        4%       1248       632        616       84%       95%                                   84%        4%
+    A (93­96)                                3,167       17%       1149       583        566       67%       90%                                   68%        8%
+    A-(90­92)                                2,883       15%       1074       547        527       49%       82%                                   52%       16%
+    B (80­89)                                6,840       36%        963       492        471       22%       56%                                   24%       42%
+    C (70­79)                                2,557       14%        870       444        426        8%       33%                                   10%       66%
+    D,E,orF(below70)                           254        1%        836       428        409        5%       22%                                    6%       76%
+    No Response                              2,277       12%        932       477        455       19%       49%                                   21%       49%
+
+   HighSchoolRank                              TestTakers                Mean Score                        MetBenchmarks
+                                           Number     Percent      Total     ERW        Math       Both      ERW                                  Math      None
+    HighestTenth                             1,464        8%       1211       613        598       77%       92%                                   79%        7%
+    Second Tenth                             1,294        7%       1075       547        529       50%       78%                                   52%       20%
+    Second Fifth                             1,053        6%       1001       509        493       32%       64%                                   35%       33%
+    FinalThree-Fifths                        1,198        6%        926       473        453       16%       45%                                   18%       52%
+    No Response                             13,748       73%        984       502        481       29%       60%                                   31%       38%
+
+   Took the PSAT/NMSQT¹                        TestTakers                Mean Score                        MetBenchmarks
+                                           Number     Percent      Total     ERW        Math       Both      ERW                                   Math      None
+    AsaJuniorandSophomoreorYounger           5,733       31%       1098        559       539       53%        80%                                  55%       19%
+    As a Junior                              1,019        5%       1018        519       499       36%        66%                                  38%       33%
+    AsaSophomoreorYounger                    8,785       47%        974        497       477       27%        58%                                  29%       40%
+    NeverTookPSAT/NMSQT                      3,220       17%        921        471       450       17%        45%                                  19%       53%
+
+¹Derivedfrom CollegeBoardrecordsofstudenttest-takinghistory.Previously,thesedatawerebasedonself-reportedinformationcollectedduringregistration.
+                                                                                                                     2017SATSuiteAnnualReport
+                                                                                                                                                      Idaho
+
+SATParticipationandPerformance:ScoreDistributions
+Datareflect2017highschoolgraduateswhotookthenewSATduringhighschool.IfastudenttooktheSATmorethanonce,the
+mostrecentscoreissummarized.
+
+   TotalandSectionScores
+
+                 TotalScore                                                ERW                                    Math
+    1400­1600     415                                        700­800       646               3%                    469           3%
+    1200­1390     2,549                    14%               600­690       3,285                 18%               2,145            11%
+    1000­1190     6,579                           35%        500­590       6,511                       35%         6,707                    36%
+    800­990       6,648                           35%        400­490       6,005                      32%          6,465                    34%
+    600­790       2,542                    14%               300­390       2,254               12%                 2,841             15%
+    400­590       24                                       _2_0_0_­_2_9_0______5_6________________________1_3_0_____________________
+    Mean          1005                                       Mean          513                                     493
+    SD            182                                        SD            97                                      96
+
+   Cross-TestScores                                                 TestScores
+                 Analysis in
+                History/Social    Analysis in                                                                Writingand
+                   Studies         Science                                           Reading                 Language               Math
+    35­40             700             778                            35­40             862                      805                  469
+    30­34.5          3,281           3,620                           30­34.5          3,494                     3,793               2,145
+    25­29.5          7,203           6,848                           25­29.5          6,569                     6,202               6,707
+    20­24.5          5,384           5,639                           20­24.5          5,756                     5,510               6,465
+    15­19.5          2,066           1,803                           15­19.5          2,010                     2,297               2,841
+  _1_0_­_1_4_.5__________1_2_3___________6_9_______                 _1_0_­_1_4_.5__________6_6____________1_5_0___________1_3_0_____
+    Mean              26              26                             Mean                       26               26                  25
+    SD                 5               5                             SD                         5                5                    5
+
+   Subscores
+                                                                                                              Problem
+                                                                        Standard                              Solving      Passportto
+                      Wordsin    Command                 Expression     English        Heartof               and Data      Advanced
+                      Context    ofEvidence               ofIdeas     Conventions      Algebra               Analysis     Mathematics
+    13­15              1,426          942                   1,552          861                   630             933                755
+    10­12              5,677         4,317                  5,003         4,177                 3,743           4,433         3,503
+    7­9                6,634         9,295                  8,542         6,824                 8,018           7,652         8,005
+    4­6                4,139         3,990                  3,020         5,086                 5,828           4,289         5,553
+  _1_­_3_______________8_8_1_________2_1_3__________6_4_0_________1_,8_0_9_________5_3_8_________1_,4_5_0_________9_4_1_____
+    Mean                 8                     8              9             8                     8               8                 8
+    SD                   3                     2              3             3                     2               3                 3
+
+   Essay¹
+                      8            7                      6           5             4                      3            2               Mean           SD
+    Reading           120          753                  3,914        4,326        5,238                 2,211         1,540                5             1
+    Analysis          63           331                  1,247        2,216        3,688                 3,317         7,240                3             1
+    Writing           116          709                  4,074        3,975        4,990                 2,460         1,778                4             1
+
+¹ReflectsthemostrecentessayoftesttakerswhocompletedtheSATEssayatanypoint,notnecessarilyonthemostrecenttestadministrationdate.
+                                                                                                   2017SATSuiteAnnualReport
+                                                                                                                               Idaho
+
+SATParticipationandPerformance:IntendedCollegeMajorandDegree-LevelGoal
+Datareflect2017highschoolgraduateswhotookthenewSATduringhighschool.IfastudenttooktheSATmorethanonce,the
+mostrecentscoreandself-reportedSATquestionnaireresponsesaresummarized.
+
+                                                                                                              Mean Score
+   Intended College Major                                          TestTakers        Percent       Total         ERW           Math
+    Agriculture,AgricultureOperations,andRelatedSciences                   437           3%           953           484           469
+    Architecture and Related Services                                      239           2%           999           505           494
+    Area,Ethnic,Cultural,andGenderStudies                                   12           0%          1008           533           474
+    BiologicalandBiomedicalSciences                                        760           5%          1090           557           534
+    Business,Management,Marketing,andRelatedSupportServic..                921           6%          1028           522           506
+    Communication,Journalism,andRelatedPrograms                            202           1%          1038           542           496
+    ComputerandInformationSciencesandSupportServices                       425           3%          1094           551           543
+    MilitaryTechnologies                                                   152           1%           936           478           458
+    ConstructionTrades,General                                              13           0%           883           452           432
+    Education                                                              507           3%          1042           535           508
+    Engineering                                                          1,547          10%          1066           529           536
+    Engineering Technologies/Technicians                                   218           1%           996           500           496
+    English Language and Literature/Letters                                226           2%          1108           585           523
+    FamilyandConsumerSciences/HumanSciences                                 83           1%           954           487           467
+    ForeignLanguagesandLiteratures,General                                  68           0%          1036           534           502
+    HealthProfessionsandRelatedClinicalSciences                          3,132          21%          1029           525           504
+    History,General                                                        126           1%          1017           530           487
+    LegalStudies,General                                                   212           1%          1070           551           519
+    LiberalArtsandSciences,GeneralStudiesandHumanities                      55           0%          1122           587           535
+    Library Science/Librarianship                                            3           0%
+    MathematicsandStatistics                                                51           0%          1163           569           594
+    MechanicandRepairTechnologies/Technicians                               76           1%           881           441           441
+    Multi/InterdisciplinaryStudies                                          16           0%          1036           513           523
+    NaturalResourcesandConservation                                        191           1%           999           508           491
+    Parks,RecreationandLeisureStudies                                      137           1%           924           463           462
+    PersonalAndCulinaryServices,General                                     87           1%           991           513           478
+    Philosophy and Religious Studies                                        37           0%          1050           552           498
+    PhysicalSciences                                                       213           1%          1140           574           566
+    Precision Production                                                     2           0%
+    Psychology,General                                                     487           3%          1043           544           499
+    PublicAdministrationandSocialServiceProfessions                         56           0%           962           501           461
+    Security and Protective Services                                       524           4%           951           488           463
+    SocialSciences                                                         185           1%          1098           569           529
+    Theology and Religious Vocations                                        12           0%          1181           603           578
+    TransportationandMaterialsMoving                                         2           0%
+    VisualandPerformingArts,General                                      1,274           9%          1028           535           493
+    Other                                                                  535           4%           918           466           452
+    Undecided                                                            1,660          11%          1010           515           495
+
+   Degree-LevelGoal
+    Certificate Program                                                    297           4%           899           459           440
+    Associate Degree                                                       332           4%           901           462           439
+    Bachelor's Degree                                                    2,211          28%          1021           522           499
+    Master'sDegree                                                       1,790          23%          1087           554           533
+    DoctoralorRelatedDegree                                              1,340          17%          1120           569           551
+    Other                                                                  109           1%           857           439           418
+    Undecided                                                            1,687          22%           973           498           475
+                                                                                                          2017SATSuiteAnnualReport
+                                                                                                                                      Idaho
+
+SATScoreSending:InstitutionsThatReceivedtheMostSATScoreReportsfrom Idaho
+Ofthe18,757studentsfrom IdahowhotooktheSAT,5,420designatedthattheirscorereportsbesenttoinstitutions.Studentsmay
+designatemorethanoneinstitutiontoreceivescores.Thislistincludesonlytheinstitutionsthatreceivedthemostscorereports.A
+totalof992institutionsreceivedscorereportsfrom Idahostudents.
+
+   Institution                                           State             Type                NumberofStudents         % ofScoreSenders¹
+    Boise State University                                   ID              Public College           1,995                     36.8%
+    UniversityofIdaho                                        ID              Public College           1,576                     29.1%
+    Idaho State University                                   ID              Public College           1,399                     25.8%
+    Utah State University                                    UT              Public College           617                       11.4%
+    UniversityofUtah                                         UT              Public College           578                       10.7%
+    Brigham YoungUniversity-Idaho                            ID              Private College          555                       10.2%
+    CollegeofSouthernIdaho                                   ID              Public College           534                       9.9%
+    MontanaStateUniversity                                   MT              Public College           478                       8.8%
+    Brigham YoungUniversity                                  UT              Private College          467                       8.6%
+    CollegeofIdaho                                           ID              Private College          410                       7.6%
+    CollegeofWesternIdaho                                    ID              Public College           406                       7.5%
+    WashingtonStateUniversity                                WA              Public College           390                       7.2%
+    North Idaho College                                      ID              Public College           354                       6.5%
+    Lewis-Clark State College                                ID              Public College           340                       6.3%
+    UniversityofWashington                                   WA              Public College           324                       6.0%
+    NCAA Eligibility Center                                  IN              Public College           209                       3.9%
+    Stanford University                                      CA              Private College          196                       3.6%
+    Oregon State University                                  OR              Public College           185                       3.4%
+    NorthwestNazareneUniversity                              ID              Private College          177                       3.3%
+    UniversityofOregon                                       OR              Public College           168                       3.1%
+    UniversityofMontana                                      MT              Public College           161                       3.0%
+    Arizona State University                                 AZ              Public College           119                       2.2%
+    Utah Valley University                                   UT              Public College           118                       2.2%
+    Portland State University                                OR              Public College           110                       2.0%
+    NMSCScholarshipAdmin                                     IL              NO ANSWER                109                       2.0%
+    Dixie State University                                   UT              Public College           109                       2.0%
+    Gonzaga University                                       WA              Private College          105                       1.9%
+    EasternWashingtonUniversity                              WA              Public College           100                       1.8%
+    UniversityofSouthernCalifornia                           CA              Private College           96                       1.8%
+    WesternWashingtonUniversity                              WA              Public College            92                       1.7%
+    UniversityofPortland                                     OR              Private College           89                       1.6%
+    UniversityofCalifornia:LosAngeles                        CA              Public College            87                       1.6%
+    WeberStateUniversity                                     UT              Public College            86                       1.6%
+    UniversityofCalifornia:Berkeley                          CA              Public College            84                       1.5%
+    Harvard College                                          MA              Private College           82                       1.5%
+    NAIA Eligibility Center                                  MO              NO ANSWER                 82                       1.5%
+    UniversityofColoradoBoulder                              CO              Public College            80                       1.5%
+    Colorado State University                                CO              Public College            77                       1.4%
+    CarrollCollege                                           MT              Private College           76                       1.4%
+    EasternIdahoTechnicalCollege                             ID              Public College            72                       1.3%
+    WhitworthUniversity                                      WA              Private College           70                       1.3%
+    MassachusettsInstituteofTechnology                       MA              Private College           69                       1.3%
+    CornellUniversity                                        NY              Private College           63                       1.2%
+    UniversityofArizona                                      AZ              Public College            62                       1.1%
+    Yale University                                          CT              Private College           56                       1.0%
+
+¹OfstudentswhodesignatedthattheirSATscorereportsbesenttoinstitutions,the'PercentofScoreSenders'indicatesthepercentofthosestudentswhohadtheirscoressentto
+each institution listed.
+                                                                                                   2017SATSuiteAnnualReport
+                                                                                                                                Idaho
+
+PSAT/NMSQTandPSAT10ParticipationandPerformance
+DatareflectstudentswhotookthePSAT/NMSQTand/orPSAT10duringthe2016-17schoolyear.Ifastudenttestedmorethan
+once,themostrecentscoreandself-reportedquestionnaireresponsesaresummarized.
+
+   Total                                          TestTakers                Mean Score
+                                              Number                  Total     ERW        Math
+    Total                                      27,321                  952       483        470
+       PSAT/NMSQT                              27,290                  952       483        470
+       PSAT 10                                     33                 1026       508        518
+
+   Sex                                            TestTakers                Mean Score
+                                              Number     Percent      Total     ERW        Math
+    Female                                     13,629       50%        958       490        468
+    Male                                       13,404       50%        949       476        473
+
+   Grade Level                                    TestTakers                Mean Score                        MetBenchmarks¹
+                                              Number     Percent      Total     ERW        Math       Both      ERW       Math      None
+    10th Grade                                 19,169      70%         923       467        456      36%        64%        39%       33%
+    11th Grade                                  7,117      26%       1042        530        511      50%        76%        52%       22%
+    Other/No Response                           1,035        4%        890       448        442
+
+   Race/Ethnicity                                 TestTakers                Mean Score
+   Total                                      Number     Percent      Total     ERW        Math
+    AmericanIndian/AlaskaNative                   427        2%        842       423        419
+    Asian                                         440        2%       1053       522        531
+    Black/AfricanAmerican                         262        1%        871       442        429
+    Hispanic/Latino                              3,841      14%        874       440        435
+    NativeHawaiian/OtherPacificIslander            79        0%        925       460        464
+    White                                      16,583       61%        982       499        482
+    TwoorMoreRaces                                973        4%        965       491        474
+    No Response                                  4,716      17%        917       463        454
+
+                                                  TestTakers                Mean Score                         MetBenchmarks¹
+   10th Grade                                 Number     Percent      Total     ERW        Math       Both      ERW       Math      None
+    AmericanIndian/AlaskaNative                   315        2%        822        413       409       14%       35%        17%       63%
+    Asian                                         222        1%       1008        500       508       57%       73%        61%       23%
+    Black/AfricanAmerican                         160        1%        858        434       424       21%       46%        23%       51%
+    Hispanic/Latino                              2,877      15%        848        425       423       17%       44%        20%       53%
+    NativeHawaiian/OtherPacificIslander            44        0%        873        432       442       27%       50%        32%       45%
+    White                                      10,772       56%        949        482       467       42%       70%        45%       27%
+    TwoorMoreRaces                                649        3%        929        472       457       37%       67%        38%       31%
+    No Response                                  4,130      22%        911        460       451       35%       61%        39%       35%
+
+                                                  TestTakers                Mean Score                         MetBenchmarks¹
+   11th Grade                                 Number     Percent      Total     ERW        Math       Both      ERW       Math      None
+    AmericanIndian/AlaskaNative                    86        1%        928        469       459       30%       53%        31%       45%
+    Asian                                         200        3%       1112        551       561       65%       80%        70%       16%
+    Black/AfricanAmerican                          96        1%        895        455       440       20%       48%        21%       51%
+    Hispanic/Latino                               853       12%        964        489       475       31%       61%        33%       37%
+    NativeHawaiian/OtherPacificIslander            35        0%        990        497       493       40%       60%        43%       37%
+    White                                        5,091      72%       1061        542       520       54%       80%        56%       18%
+    TwoorMoreRaces                                265        4%       1076        550       526       59%       81%        59%       19%
+    No Response                                   491        7%        980        498       482       37%       66%        39%       32%
+
+¹Basedongrade-levelbenchmarks.
+                                                                                                   2017SATSuiteAnnualReport
+                                                                                                                               Idaho
+
+PSAT/NMSQTandPSAT10ParticipationandPerformance
+DatareflectstudentswhotookthePSAT/NMSQTand/orPSAT10duringthe2016-17schoolyear.Ifastudenttestedmorethan
+once,themostrecentscoreandself-reportedquestionnaireresponsesaresummarized.
+
+   FirstLanguageLearned                        TestTakers                 Mean Score                          MetBenchmarks¹
+   10th Grade                              Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    English Only                            12,595       66%        935        474        460       39%        67%        42%        30%
+    EnglishandAnotherLanguage                1,563        8%        859        430        428       19%        45%        22%        52%
+    AnotherLanguage                           778         4%        842        417        426       16%        39%        20%        56%
+    No Response                              4,233       22%        925        467        458       39%        64%        42%        33%
+                                               TestTakers                 Mean Score                          MetBenchmarks
+   11th Grade                              Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    English Only                             5,686       80%       1052        537        515       52%        79%        54%        20%
+    EnglishandAnotherLanguage                 557         8%        978        495        483       34%        64%        37%        34%
+    AnotherLanguage                           306         4%        957        472        485       32%        49%        36%        47%
+    No Response                               568         8%       1045        532        512       52%        76%        54%        22%
+
+   HighestLevelofParentalEducation             TestTakers                 Mean Score                          MetBenchmarks
+   10th Grade                              Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    NoHighSchoolDiploma                      1,471        8%        816        407        409       10%        35%        12%        62%
+    HighSchoolDiploma                        4,782       25%        880        445        436       25%        55%        28%        42%
+    Associate Degree                         1,357        7%        914        463        451       32%        66%        34%        32%
+    Bachelor's Degree                        4,283       22%        978        497        480       50%        78%        53%        20%
+    Graduate Degree                          2,334       12%       1021        520        502       61%        82%        63%        16%
+    No Response                              4,942       26%        904        456        448       33%        59%        37%        38%
+
+                                               TestTakers                 Mean Score                          MetBenchmarks
+   11th Grade                              Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    NoHighSchoolDiploma                       324         5%        890        447        443       16%        44%        20%        53%
+    HighSchoolDiploma                        1,695       24%        983        499        483       36%        67%        38%        31%
+    Associate Degree                          540         8%       1026        523        503       48%        77%        50%        21%
+    Bachelor's Degree                        2,296       32%       1085        553        531       60%        86%        62%        13%
+    Graduate Degree                          1,339       19%       1139        582        557       71%        89%        73%        10%
+    No Response                               923        13%        963        491        473       34%        62%        36%        36%
+
+   HighSchoolGradePointAverage                 TestTakers                 Mean Score                          MetBenchmarks
+   10th Grade                              Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    A+ (97­100)                               673         4%       1096        561        535       79%        90%        80%         9%
+    A (93­96)                                3,112       16%       1033        527        506       65%        88%        67%        10%
+    A-(90­92)                                2,602       14%        969        492        477       48%        80%        52%        16%
+    B (80­89)                                5,624       29%        876        442        434       22%        55%        25%        42%
+    C (70­79)                                2,273       12%        805        404        401        8%        30%        10%        67%
+    D,E,orF(below70)                          281         1%        765        385        381        3%        20%         3%        79%
+    No Response                              4,604       24%        921        465        456       38%        63%        41%        34%
+
+                                               TestTakers                 Mean Score                          MetBenchmarks
+   11th Grade                              Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    A+ (97­100)                               477         7%       1239        631        608       88%        96%        90%         2%
+    A (93­96)                                1,586       22%       1149        587        561       76%        94%        77%         5%
+    A-(90­92)                                1,201       17%       1072        545        527       60%        87%        62%        11%
+    B (80­89)                                2,304       32%        971        494        477       32%        67%        34%        30%
+    C (70­79)                                 724        10%        873        441        432       12%        38%        15%        59%
+    D,E,orF(below70)                           45         1%        853        426        427       13%        29%        13%        71%
+    No Response                               780        11%       1032        527        504       49%        75%        51%        23%
+
+¹Basedongrade-levelbenchmarks.
+                                                                                                   2017SATSuiteAnnualReport
+                                                                                                                                Idaho
+
+PSAT8/9ParticipationandPerformance
+DatareflectstudentswhotookthePSAT8/9duringthe2016-17schoolyear.IfastudenttookthePSAT8/9morethanonceduring
+theschoolyear,themostrecentscoreandself-reportedquestionnaireresponsesaresummarized.
+
+   Total                                           TestTakers               Mean Score
+                                               Number                 Total      ERW       Math
+    Total                                        1,313                 875        445       429
+       Fall                                      1,170                 877        446       430
+       Spring                                      144                 861        438       423
+
+   Sex                                            TestTakers                Mean Score
+                                              Number     Percent      Total      ERW       Math
+    Female                                        649       50%        881        454       427
+    Male                                          657       50%        870        437       432
+
+   Grade Level                                    TestTakers                Mean Score                         MetBenchmarks¹
+                                              Number     Percent      Total      ERW       Math       Both      ERW        Math      None
+    8th Grade                                     391       30%        852        436       416       37%       68%        40%        29%
+    9th Grade                                     891       68%        887        451       436       40%       67%        44%        29%
+    Other/NoResponse                               31        2%        825        407       418
+
+   Race/Ethnicity                                 TestTakers                Mean Score
+   Total                                      Number     Percent      Total      ERW       Math
+    AmericanIndian/AlaskaNative                    40        3%        806        413       393
+    Asian                                          16        1%        923        455       468
+    Black/AfricanAmerican                           8        1%
+    Hispanic/Latino                               136       10%        805        403       402
+    NativeHawaiian/OtherPacificIslander             2        0%
+    White                                         936       71%        894        457       438
+    TwoorMoreRaces                                 85        6%        875        449       426
+    No Response                                    90        7%        812        407       404
+
+                                                  TestTakers                Mean Score                        MetBenchmarks¹
+   8th Grade                                  Number     Percent      Total      ERW       Math       Both      ERW        Math      None
+    AmericanIndian/AlaskaNative                     7        2%
+    Asian                                           4        1%
+    Black/AfricanAmerican                           1        0%
+    Hispanic/Latino                                43       11%        766        388       379       21%       47%        21%        53%
+    NativeHawaiian/OtherPacificIslander             1        0%
+    White                                         275       70%        873        448       424       42%       73%        46%        23%
+    TwoorMoreRaces                                 25        6%        865        452       414       36%       84%        36%        16%
+    No Response                                    35        9%        788        390       398       20%       43%        26%        51%
+
+                                                  TestTakers                Mean Score                         MetBenchmarks¹
+   9th Grade                                  Number     Percent      Total      ERW       Math       Both      ERW        Math      None
+    AmericanIndian/AlaskaNative                    31        3%        822        423       400       26%       52%        29%        45%
+    Asian                                          12        1%        900        441       459       42%       67%        50%        25%
+    Black/AfricanAmerican                           6        1%
+    Hispanic/Latino                                93       10%        823        410       413       20%       48%        26%        46%
+    NativeHawaiian/OtherPacificIslander             1        0%
+    White                                         641       72%        905        461       444       45%       72%        49%        25%
+    TwoorMoreRaces                                 59        7%        879        447       432       39%       69%        46%        24%
+    No Response                                    48        5%        833        424       409       31%       58%        38%        35%
+
+¹Basedongrade-levelbenchmarks.
+                                                                                                   2017SATSuiteAnnualReport
+                                                                                                                               Idaho
+
+PSAT8/9ParticipationandPerformance
+DatareflectstudentswhotookthePSAT8/9duringthe2016-17schoolyear.IfastudenttookthePSAT8/9morethanonceduring
+theschoolyear,themostrecentscoreandself-reportedquestionnaireresponsesaresummarized.
+
+   FirstLanguageLearned                        TestTakers                 Mean Score                          MetBenchmarks¹
+   8th Grade                               Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    English Only                              347        89%        862        443        419       39%        72%        42%        25%
+    EnglishandAnotherLanguage                  27         7%        782        389        393       19%        41%        26%        52%
+    AnotherLanguage                              8        2%
+    No Response                                  9        2%
+                                               TestTakers                 Mean Score                          MetBenchmarks
+   9th Grade                               Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    English Only                              788        88%        897        457        440       43%        71%        47%        26%
+    EnglishandAnotherLanguage                  60         7%        813        405        408       27%        47%        32%        48%
+    AnotherLanguage                            29         3%        808        390        419       14%        28%        28%        59%
+    No Response                                14         2%        801        424        377        7%        50%         7%        50%
+
+   HighSchoolGradePointAverage                 TestTakers                 Mean Score                          MetBenchmarks
+   8th Grade                               Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    A+ (97­100)                                31         8%        949        483        466       65%        81%        68%        16%
+    A (93­96)                                  93        24%        934        487        447       57%        91%        58%         8%
+    A-(90­92)                                  63        16%        880        450        430       48%        89%        48%        11%
+    B (80­89)                                 121        31%        822        420        403       29%        57%        36%        36%
+    C (70­79)                                  49        13%        753        377        376        8%        39%        12%        57%
+    D,E,orF(below70)                           12         3%        709        355        354        0%        17%         8%        75%
+    No Response                                22         6%        744        381        363        9%        41%         9%        59%
+
+                                               TestTakers                 Mean Score                          MetBenchmarks
+   9th Grade                               Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    A+ (97­100)                                34         4%       1019        521        498       79%        91%        79%         9%
+    A (93­96)                                 187        21%        996        509        487       68%        92%        70%         6%
+    A-(90­92)                                 172        19%        930        476        454       58%        82%        60%        16%
+    B (80­89)                                 342        38%        837        423        414       25%        57%        30%        37%
+    C (70­79)                                 130        15%        781        393        388       13%        38%        19%        55%
+    D,E,orF(below70)                           12         1%        738        373        364        8%        25%         8%        75%
+    No Response                                14         2%        901        472        429       36%        64%        36%        36%
+
+¹Basedongrade-levelbenchmarks.
+

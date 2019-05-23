@@ -1,0 +1,854 @@
+Texas
+AboutThisReport                                            CollegeandCareerReadinessBenchmarks
+Thisreportpresentsdataonstudentsintheclassof2018who         EachassessmentintheSATSuitehasanassociatedsetof
+tookthenewSAT®duringhighschool,aswellastakersof             metricscalledtheCollegeandCareerReadiness
+PSAT-relatedassessments--thePSAT/NMSQT®,PSATTM              Benchmarks.
+10,andPSATTM 8/9--duringthe2017-18schoolyear.              · TheSATMathbenchmarkisthesectionscoreassociated
+Withineachassessment,testtakersarecountedonlyonce           witha75% chanceofearningatleastaCinfirst-semester,
+andonlytheirlatestscoresandmostrecentdemographic            credit-bearing,college-levelcoursesinalgebra,statistics,
+responsesaresummarized.(Moststudentssupplyoptional          precalculus,orcalculus.
+demographicinformationwhentheyregisterforortaketestsin     · TheSATEvidence-BasedReadingandWriting(ERW)
+theSATSuiteofAssessments,whichprovidesvaluable              benchmarkisassociatedwitha75% chanceofearningat
+contextualinformationtoaidininterpretingandunderstanding    leastaCinfirst-semester,credit-bearing,college-level
+individualandgroupscores.)                                  coursesinhistory,literature,socialscience,orwriting.
+
+Score Ranges                                                Thegrade-levelbenchmarkscoresforPSAT-related
+                                                            assessmentsarebasedonexpectedstudentgrowthtoward
+Herearetherangesforreportedscoresforthe                     theSATbenchmarksateachgrade.WhileSATbenchmarks
+Evidence-BasedReadingandWriting(ERW)andMath                 indicatelikelihoodofsuccessincollege,grade-level
+sectionsofeachassessmentintheSATSuite:                      benchmarksindicatewhetherastudentisontrackforcollege
+                                                            andcareerreadinessfortheirgrade.Thebenchmarksareset
+· SATsections:200­800                                       toreflecttypicalannualgrowthfrom yeartoyearfrom 8th
+· PSAT/NMSQTandPSAT10sections:160­760                       through 12th grades.
+· PSAT8/9sections:120­720                                     CollegeandCareerReadinessBenchmarks
+RecentChangestoDataCollectionandReporting                     Assessment/Grade level         ERW               MathSection ScoreSection Score
+InJune2015,theCollegeBoardaligneditscollectionand           SAT                            480                530
+reportingofrace/ethnicitycategorieswithU.S.DepartmentofEducationguidelines.Inaddition,whilepreviousSATcohortGrade 11460510
+assignmentreflectedself-reportedinformationcollectedduring  Grade 10                       430                480
+SATorSATSubjectTestregistrationonly,itnowleveragesthemostrecentinformationfrom theSAT,PSAT-relatedassessment,orAPprogramsinanefforttomorecloselyalignGrade 9Grade 8410450390430
+withschool,district,andstatedatasystems.Forthesereasons,weadvisecautionwhencomparingdatapointsinthisreporttothoseinpreviousreports.ThenewSATSuitebenchmarkoutcomesshouldnotbecomparedagainstresultsfrom theoldSATorPSAT/NMSQT,asthescorescaleandbenchmarkdefinitionshavechanged.
+
+CaveatonUsingtheData                                        Benchmarkstatisticsarereportediftherearetenormore
+                                                            students in a group or subgroup.
+Relationshipsbetweentestscoresandotherbackgroundor
+contextualfactorsarecomplexandinterdependent.CautioniswarrantedwhenusingscorestocompareorevaluateAbouttheCollegeBoard
+teachers,schools,districts,orstates,becauseofdifferencesinparticipationandtesttakerpopulations.TheCollegeBoardisamission-drivennot-for-profitorganizationthatconnectsstudentstocollegesuccessand
+                                                            opportunity.Foundedin1900,theCollegeBoardwascreated
+StatisticalDefinitions                                      toexpandaccesstohighereducation.Today,themembershipassociationismadeupofover6,000oftheworld'sleading
+Meanscore:Themeanscoreisthearithmeticaverageofadefinedsetoftestscores.Meanscorestatisticsarereportedhereiftherearetenormorestudentsinagrouporsubgroup.educationalinstitutionsandisdedicatedtopromotingexcellenceandequityineducation.Eachyear,theCollegeBoardhelpsmorethansevenmillionstudentsprepareforasuccessfultransitiontocollegethroughprogramsandservices
+Scaledscore:Ascaledscoreistheresultofadjustingarawscore(thenumberofquestionsansweredcorrectly)inwaysthatensurethatresultsacrossdifferenttestformsarecomparable.Thescoresshownhereandreportedtoeducators,students,andinstitutionsarescaledscores.incollegereadinessandcollegesuccess--includingtheSAT®andtheAdvancedPlacementProgram®(AP®).Theorganizationalsoservestheeducationcommunitythroughresearchandadvocacyonbehalfofstudents,educatorsandschools.Forfurtherinformation,visitwww.collegeboard.org.
+Standarddeviation(SD):Thestandarddeviationisameasureofthevariabilityofasetofscores.Iftestscoresclustertightlyaroundthemeanscore,astheydowhenthegrouptestedisrelativelyhomogeneous,thestandarddeviationissmallerthanitwouldbewithamorediversegroupandamorewidelydisperseddistributionofscores.©2018TheCollegeBoard.CollegeBoard,AP,SAT,andtheacornlogoareregisteredtrademarksoftheCollegeBoard.PSAT/NMSQTisaregisteredtrademarkoftheCollegeBoardandNationalMeritScholarshipCorporation.PSATandSATSubjectTestsaretrademarksownedbytheCollegeBoard.Allothermarksarethepropertyoftheirrespectiveowners.VisittheCollegeBoardontheweb:collegeboard.org.
+                                                                                                          2018SATSuiteAnnualReport
+                                                                                                                                 Texas
+
+SATSuiteParticipationSummary
+TheSATSuiteofAssessments-- theSAT(grades12and11),PSAT/NMSQTandPSAT10(grades11and10),andPSAT
+8/9(grades9and8)-- measuresastudent'scollegeandcareerreadiness.Together,theseassessmentsprovidea
+comprehensivesolutionthatsystematicallyandprogressivelymeasurestheknowledge,skills,andunderstandingsessential
+for success in college and career.
+
+     1,015,905testtakerscompletedtheSAToraPSAT-relatedassessment
+       (PSAT/NMSQT,PSAT10,orPSAT8/9)inthe2017-18schoolyear.
+
+   Classof2018
+   SAT Takers¹                                 226,374                                         66% ofgraduates
+   HighSchoolGraduates²                        341,613SAT Participation Rate66%                intheclassof2018took the SAT duringhigh school
+
+   Classof2019
+   PSAT/NMSQT Takers³                          242,709                                         64% of11thgraders
+   11th-GradeEnrollment²                       376,442                                         tookthePSAT/NMSQT
+   Participation Rate                             64%                                          lastfall
+
+   Classof2020
+   PSAT/NMSQTorPSAT10Takers³                   274,062                                         69% of10thgraders
+   10th-GradeEnrollment²                       394,861Participation Rate69%                    tookthePSAT/NMSQTorPSAT10in 2017-18
+
+   Classof2021
+   PSAT 8/9 Takers³                            112,122                                         25% of9thgraders
+   9th-GradeEnrollment²                        449,541                                         took the PSAT 8/9
+   Participation Rate                              25%                                         in 2017-18
+
+   Classof2022
+   PSAT 8/9 Takers³                            171,520                                         42% of8thgraderstook
+   8th-GradeEnrollment²                        409,103                                         the PSAT 8/9
+   Participation Rate                             42%                                          in 2017-18
+
+¹Reflects2018highschoolgraduateswhotookthenewSATduringhighschool.
+²KnockingattheCollegeDoor,WICHE,December2016.
+³PSAT-relatedassessmentdatareflectstudentswhotestedduringthe2017-18schoolyear.
+                                                                                                   2018SATSuiteAnnualReport
+                                                                                                                                               Texas
+
+SATParticipationandPerformance
+Datareflect2018highschoolgraduateswhotookthenewSATduringhighschool.IfastudenttooktheSATmorethanonce,themost
+recentscoreissummarized.
+
+   Total                                       TestTakers                Mean Score                        MetBenchmarks
+                                           Number     Percent      Total     ERW        Math       Both      ERW                       Math      None
+    Total                                  226,374                 1032        520       512       40%        65%                      42%        33%
+      Took Essay¹                          177,856       79%       1043        525       518       42%        66%                      44%        32%
+
+   Race/Ethnicity                              TestTakers                Mean Score                        MetBenchmarks
+                                           Number     Percent      Total     ERW        Math       Both      ERW                       Math      None
+    AmericanIndian/AlaskaNative              1,180        1%        967        487       480       27%        53%                      30%        45%
+    Asian                                   14,902        7%       1215        593       622       75%        85%                      78%        11%
+    Black/AfricanAmerican                   27,884       12%        942        478       463       21%        49%                      22%        50%
+    Hispanic/Latino                        101,816       45%        973        490       482       27%        54%                      29%        44%
+    NativeHawaiian/OtherPacificIslander        317        0%       1010        505       505       32%        62%                      36%        35%
+    White                                   69,127       31%       1120        567       554       59%        83%                      61%        15%
+    TwoorMoreRaces                           5,901        3%       1095        555       540       51%        78%                      52%        21%
+    No Response                              5,247        2%        929        468       461       22%        43%                      24%        55%
+
+   Sex                                         TestTakers                Mean Score                        MetBenchmarks
+                                           Number     Percent      Total     ERW        Math       Both      ERW                       Math      None
+    Female                                 119,684       53%       1026        522       504       37%        66%                      38%        33%
+    Male                                   106,619       47%       1039        518       522       43%        63%                      46%        34%
+    No Response                                 71        0%        824        421       403       11%        23%                      13%        76%
+
+   FirstLanguageLearned                        TestTakers                Mean Score                        MetBenchmarks
+                                           Number     Percent      Total      ERW       Math       Both       ERW                       Math      None
+    English Only                           136,824       60%       1058        536       522       45%                        71%       47%        27%
+    EnglishandAnotherLanguage               54,345       24%       1000        502       498       32%                        57%       34%        41%
+    AnotherLanguage                         31,784       14%        992        493       499       32%                        53%       35%        44%
+    No Response                              3,421        2%        876        439       437       13%                        29%       16%        69%
+
+   HighestLevelofParentalEducation             TestTakers                Mean Score                        MetBenchmarks
+                                           Number     Percent      Total     ERW        Math       Both      ERW                       Math      None
+    NoHighSchoolDiploma                     30,508       13%        922        461       461       17%        41%                      20%        57%
+    HighSchoolDiploma                       70,031       31%        978        494       484       28%        57%                      30%        41%
+    Associate Degree                        17,247        8%       1014        514       500       35%        66%                      37%        32%
+    Bachelor's Degree                       58,964       26%       1108        558       549       56%        81%                      58%        17%
+    Graduate Degree                         37,108       16%       1173        590       583       67%        86%                      68%        13%
+    No Response                             12,516        6%        852        427       425        9%        25%                      11%        73%
+
+   SATFeeWaiver                                TestTakers                Mean Score                        MetBenchmarks
+                                           Number     Percent      Total     ERW        Math       Both      ERW                       Math      None
+    Usedatanypoint                          59,875       26%        985        498       487       28%        58%                      30%        39%
+    Didnotuse                              166,499       74%       1049        528       521       44%        67%                      46%        31%
+
+¹ReflectsthemostrecentessayoftesttakerswhocompletedtheSATEssayatanypoint,notnecessarilyonthemostrecenttestadministrationdate.
+                                                                                                                       2018SATSuiteAnnualReport
+                                                                                                                                                       Texas
+
+SATParticipationandPerformance:ScoreDistributions
+Datareflect2018highschoolgraduateswhotookthenewSATduringhighschool.IfastudenttooktheSATmorethanonce,themost
+recentscoreissummarized.
+
+   TotalandSectionScores
+
+                 TotalScore                                               ERW                                  Math
+    1400­1600     10,377                5%                   700­800       11,423            5%                13,225        6%
+    1200­1390     36,033                    16%              600­690       43,531                 19%          31,225           14%
+    1000­1190     77,890                          34%        500­590       74,804                     33%      80,269                   35%
+    800­990       77,218                         34%         400­490       71,970                     32%      72,407                  32%
+    600­790       23,819                  11%                300­390       22,974              10%             27,485           12%
+    400­590       1,037                                    _2_0_0_­_2_9_0______1_,_6_72___________________1_,_7_6_3__________________
+    Mean          1032                                       Mean          520                                 512
+    SD            197                                        SD            102                                 105
+
+   Cross-TestScores                                                 TestScores
+                   Analysis in
+                  History/Social   Analysis in                                                               Writingand
+                     Studies               Science                                   Reading                 Language               Math
+    35­40             14,019               14,448                    35­40            14,109                   13,591               13,225
+    30­34             43,639               48,836                    30­34.5          49,292                   43,488               31,225
+    25­29             82,253               76,100                    25­29.5          76,530                   69,955               80,269
+    20­24             61,331               62,460                    20­24.5          64,236                   71,576               72,407
+    15­19             22,347               21,849                    15­19.5          19,972                   25,406               27,485
+  _1_0_­_1_4____________2_,7_8_5_________2_,_68_1_____              _1_0_­_1_4_.5_________2_,_2_3_5_________2_,_3_58__________1_,_76_3_____
+    Mean                26                    26                     Mean               26                       26                  26
+    SD                  5                     5                      SD                         5                5                    5
+
+   Subscores
+                                                                                                             Problem
+                                                                        Standard                              Solving      Passportto
+                      Wordsin     Command                Expression     English        Heartof               and Data      Advanced
+                      Context     ofEvidence              ofIdeas     Conventions      Algebra               Analysis     Mathematics
+    13­15              22,928              21,754           23,860        17,324        18,566                 19,805           19,940
+    10­12              70,316              59,668           65,145        48,658        54,898                 56,228           51,013
+    7­9                82,157              98,180           85,756        75,982        99,470                 81,184           89,131
+    4­6                38,798              44,602           45,668        70,793        47,409                 50,974           58,813
+  _1_­_3______________1_2_,1_7_5________2_,1_7_0________5_,_9_45________1_3_,_6_17________6_,_0_3_1_______1_8_,_1_8_3_______7_,_4_7_7____
+    Mean                 9                    9               9             8                    8               8                  8
+    SD                   3                    3               3             3                    3               3                  3
+
+   Essay¹
+                      8                    7              6            5            4                      3           2               Mean           SD
+    Reading           894         5,077                41,387        41,870       59,447                18,699       10,482                 5           1
+    Analysis          300         1,775                10,552        21,715       43,195                38,651       61,668                 3           1
+    Writing          1,124        5,307                47,756        40,866       54,916                17,625       10,262                 5           1
+
+¹ReflectsthemostrecentessayoftesttakerswhocompletedtheSATEssayatanypoint,notnecessarilyonthemostrecenttestadministrationdate.
+                                                                                                         2018SATSuiteAnnualReport
+                                                                                                                                     Texas
+
+SATParticipationandPerformance:ScoreDistributionsbySubgroup
+Datareflect2018highschoolgraduateswhotookthenewSATduringhighschool.IfastudenttooktheSATmorethanonce,themost
+recentscoreissummarized.                                                                                                     Two or
+                      TotalStudentsFemale                  American              African               NativeMaleIndianAsianAmericanHispanicHawaiianWhiteMoreRaces
+ TestTakers          226,374    119,684    106,619          1,180     14,902     27,884     101,816     317       69,127      5,901
+ TotalScore
+   1400­1600            5%         4%         6%             2%         23%        1%         1%         2%         7%         7%
+   1200­1390           16%        15%        17%             9%         32%        7%         9%        12%        27%        22%
+   1000­1190           34%        36%        33%             31%        30%        28%        32%       37%        42%        39%
+   800­990             34%        36%        32%             41%        13%        46%        43%       39%        20%        27%
+   600­790             11%        10%        11%             17%        2%         18%        14%       10%         3%         5%
+   400­590              0%         0%         1%             1%         0%         1%         1%         0%         0%         0%
+
+  SectionScores-ERW
+   700­800              5%         5%         5%              2%        18%        1%         2%         3%         9%         9%
+   600­690             19%        19%        19%             13%        34%        9%         12%        14%        31%       27%
+   500­590             33%        34%        31%             29%        29%        29%        32%        36%        38%       36%
+   400­490             32%        32%        31%             38%        15%        43%        40%        35%        19%       24%
+   300­390             10%         9%        12%             16%        3%         15%        14%        11%        4%         5%
+   200­290              1%         0%         1%              1%        0%         1%         1%         1%         0%         0%
+
+  Section(Test)Scores-Math¹
+   700­800 (35­40)      6%         4%         8%              3%        30%        1%         2%         4%         8%         9%
+   600­690 (30­34.5)   14%        12%        16%              8%        27%        6%         8%         10%        23%       19%
+   500­590 (25­29.5)   35%        36%        35%             31%        29%        28%        34%        36%        43%       39%
+   400­490 (20­24.5)   32%        34%        29%             40%        11%        43%        40%        39%        21%       27%
+   300­390 (15­19.5)   12%        13%        11%             18%        3%         21%        16%        10%        5%         7%
+   200­290 (10­14.5)    1%         1%         1%              1%        0%         1%         1%         0%         0%         0%
+
+  TestScores-Reading
+   35­40                6%         6%         7%              3%        19%        2%         3%         4%         11%       11%
+   30­34               22%        22%        22%             16%        34%        12%        15%        17%        33%       30%
+   25­29               34%        35%        32%             32%        29%        32%        34%        36%        36%       34%
+   20­24               28%        29%        28%             35%        14%        39%        36%        32%        16%       20%
+   15­19                9%         8%        10%             12%        4%         14%        12%        10%        3%         4%
+   10­14                1%         1%         1%              2%        0%         2%         1%         1%         0%         0%
+
+  TestScores-WritingandLanguage
+   35­40                6%         6%         6%              2%        22%        2%         2%         4%         10%        9%
+   30­34               19%        19%        19%             13%        33%        10%        12%        15%        31%       26%
+   25­29               31%        32%        30%             27%        27%        29%        30%        32%        35%       34%
+   20­24               32%        32%        31%             39%        15%        42%        39%        35%        20%       25%
+   15­19               11%        10%        13%             17%        4%         17%        15%        14%        4%         5%
+   10­14                1%         1%         1%              2%        0%         2%         1%         1%         0%         0%
+
+¹TheMathTestscoreisfoundbydividingtheMathsectionscoreby20.
+                                                                                                      2018SATSuiteAnnualReport
+                                                                                                                                 Texas
+
+SATParticipationandPerformance:IntendedCollegeMajorandDegree-LevelGoal
+Datareflect2018highschoolgraduateswhotookthenewSATduringhighschool.IfastudenttooktheSATmorethanonce,themost
+recentscoreissummarized.
+
+                                                                                                                Mean Score
+   Intended College Major                                            TestTakers        Percent       Total         ERW           Math
+    Agriculture,AgricultureOperations,andRelatedSciences                   4,270           2%           976           493           483
+    Architecture and Related Services                                      4,234           2%          1007           499           507
+    Area,Ethnic,Cultural,andGenderStudies                                    173           0%          1032           529           503
+    BiologicalandBiomedicalSciences                                       13,401           6%          1117           564           553
+    Business,Management,Marketing,andRelatedSupportServices               23,496          11%          1054           528           526
+    Communication,Journalism,andRelatedPrograms                            3,571           2%          1056           545           511
+    ComputerandInformationSciencesandSupportServices                       6,769           3%          1127           561           566
+    ConstructionTrades,General                                               121           0%           981           489           492
+    Education                                                              8,344           4%           999           507           492
+    Engineering                                                           25,776          12%          1096           540           556
+    Engineering Technologies/Technicians                                   3,292           2%           991           489           502
+    English Language and Literature/Letters                                1,387           1%          1101           578           523
+    FamilyandConsumerSciences/HumanSciences                                  636           0%           954           484           470
+    ForeignLanguagesandLiteratures,General                                   760           0%          1060           548           513
+    HealthProfessionsandRelatedClinicalSciences                           45,178          22%          1027           519           508
+    History,General                                                        1,146           1%          1038           536           502
+    LegalStudies,General                                                   3,746           2%          1074           550           525
+    LiberalArtsandSciences,GeneralStudiesandHumanities                       826           0%          1104           569           535
+    Library Science/Librarianship                                             24           0%          1086           577           510
+    MathematicsandStatistics                                               1,105           1%          1191           577           614
+    MechanicandRepairTechnologies/Technicians                                433           0%           931           463           467
+    MilitaryTechnologies                                                   1,066           1%           947           477           470
+    Multi/InterdisciplinaryStudies                                           403           0%          1105           558           548
+    NaturalResourcesandConservation                                          833           0%          1051           536           515
+    Parks,RecreationandLeisureStudies                                      1,612           1%           933           466           466
+    PersonalAndCulinaryServices,General                                      795           0%           932           472           461
+    Philosophy and Religious Studies                                         378           0%          1084           556           528
+    PhysicalSciences                                                       2,449           1%          1149           576           573
+    Precision Production                                                      22           0%           912           457           455
+    Psychology,General                                                     7,332           4%          1042           537           506
+    PublicAdministrationandSocialServiceProfessions                        1,031           0%           969           494           475
+    Security and Protective Services                                       9,242           4%           940           475           464
+    SocialSciences                                                         2,617           1%          1118           574           544
+    Theology and Religious Vocations                                         297           0%          1099           561           538
+    TransportationandMaterialsMoving                                          78           0%          1035           523           512
+    VisualandPerformingArts,General                                       15,699           8%          1023           523           499
+    Other                                                                  3,193           2%           926           467           459
+    Undecided                                                             11,387           5%          1033           520           513
+
+   Degree-LevelGoal
+    Certificate Program                                                    1,448           1%           910           458           452
+    Associate Degree                                                       3,052           2%           890           450           440
+    Bachelor's Degree                                                     53,083          32%          1032           521           511
+    Master'sDegree                                                        52,172          31%          1097           553           545
+    DoctoralorRelatedDegree                                               39,453          24%          1131           570           561
+    Other                                                                  1,087           1%           880           443           436
+    Undecided                                                             16,624          10%          1028           519           509
+                                                                                                             2018SATSuiteAnnualReport
+                                                                                                                                        Texas
+
+SATScoreSending:InstitutionsThatReceivedtheMostSATScoreReportsfrom Texas
+Ofthe226,374studentsfrom TexaswhotooktheSAT,153,188designatedthattheirscorereportsbesenttoinstitutions.Studentsmay
+designatemorethanoneinstitutiontoreceivescores.Thislistincludesonlytheinstitutionsthatreceivedthemostscorereports.Atotal
+of3,505institutionsreceivedscorereportsfrom Texasstudents.
+
+   Institution                                           State             Type                NumberofStudents         % ofScoreSenders¹
+    TexasA&M University                                      TX              Public College          39,898                     26.0%
+    UniversityofTexasatAustin                                TX              Public College          39,271                     25.6%
+    Texas State University                                   TX              Public College          28,524                     18.6%
+    Texas Tech University                                    TX              Public College          22,951                     15.0%
+    UniversityofHouston                                      TX              Public College          22,932                     15.0%
+    UniversityofTexasatSanAntonio                            TX              Public College          22,214                     14.5%
+    BaylorUniversity                                         TX              Private College         19,228                     12.6%
+    UniversityofNorthTexas                                   TX              Public College          17,886                     11.7%
+    Sam HoustonStateUniversity                               TX              Public College          15,660                     10.2%
+    UniversityofTexasatDallas                                TX              Public College          11,968                     7.8%
+    UniversityofTexasatArlington                             TX              Public College          11,617                     7.6%
+    DukeUniversityTalentIdentificationProgram                NC              Program                 11,505                     7.5%
+    StephenF.AustinStateUniversity                           TX              Public College          10,043                     6.6%
+    Texas Christian University                               TX              Private College          8,627                     5.6%
+    TexasA&M University-CorpusChristi                        TX              Public College           8,392                     5.5%
+    Rice University                                          TX              Private College          8,309                     5.4%
+    UniversityofTexasatElPaso                                TX              Public College           7,286                     4.8%
+    PrairieView A&M University                               TX              Public College           6,941                     4.5%
+    UniversityofMaryHardin-Baylor                            TX              Private College          6,710                     4.4%
+    Tarleton State University                                TX              Public College           6,378                     4.2%
+    UniversityofHouston-Downtown                             TX              Public College           6,319                     4.1%
+    TexasA&M University-SanAntonio                           TX              Public College           6,245                     4.1%
+    NCAA Eligibility Center                                  IN              Public College           5,829                     3.8%
+    LamarUniversity                                          TX              Public College           5,728                     3.7%
+    HoustonBaptistUniversity                                 TX              Private College          5,394                     3.5%
+    SouthernMethodistUniversity                              TX              Private College          5,352                     3.5%
+    UniversityOfTexasRioGrandeValley                         TX              Public College           5,068                     3.3%
+    Texas Southern University                                TX              Public College           5,061                     3.3%
+    UniversityofOklahoma                                     OK              Public College           5,029                     3.3%
+    TexasA&M University-Kingsville                           TX              Public College           4,632                     3.0%
+    TexasWoman'sUniversity                                   TX              Public College           4,620                     3.0%
+    Abilene Christian University                             TX              Private College          4,379                     2.9%
+    UniversityofArkansas                                     AR              Public College           4,198                     2.7%
+    Blinn College                                            TX              Public College           4,149                     2.7%
+    TexasA&M University-Commerce                             TX              Public College           4,129                     2.7%
+    St.Edward'sUniversity                                    TX              Private College          3,996                     2.6%
+    TexasA&M InternationalUniversity                         TX              Public College           3,912                     2.6%
+    UniversityoftheIncarnateWord                             TX              Private College          3,734                     2.4%
+    Trinity University                                       TX              Private College          3,576                     2.3%
+    LouisianaSU/A&M College                                  LA              Public College           3,575                     2.3%
+    Stanford University                                      CA              Private College          3,454                     2.3%
+    Angelo State University                                  TX              Public College           3,440                     2.2%
+    OklahomaStateUniversity                                  OK              Public College           3,052                     2.0%
+    MidwesternStateUniversity                                TX              Public College           2,756                     1.8%
+    UniversityofCalifornia:LosAngeles                        CA              Public College           2,694                     1.8%
+
+¹OfstudentswhodesignatedthattheirSATscorereportsbesenttoinstitutions,the'PercentofScoreSenders'indicatesthepercentofthosestudentswhohadtheirscoressentto
+each institution listed.
+                                                                                                      2018SATSuiteAnnualReport
+                                                                                                                                  Texas
+
+PSAT/NMSQTandPSAT10ParticipationandPerformance
+DatareflectstudentswhotookthePSAT/NMSQTand/orPSAT10duringthe2017-18schoolyear.Ifastudenttestedmorethanonce,
+themostrecentscoreandself-reportedquestionnaireresponsesaresummarized.
+
+   Total                                          TestTakers                Mean Score
+                                              Number                  Total     ERW        Math
+    Total                                     551,683                  937       471        466
+       PSAT/NMSQT                             545,000                  937       471        466
+       PSAT 10                                   7,343                 935       471        463
+
+   Sex                                            TestTakers                Mean Score
+                                              Number     Percent      Total     ERW        Math
+    Female                                    279,278       51%        942       478        464
+    Male                                      270,569       49%        931       463        468
+    No Response                                  1,836       0%        790       392        397
+
+   Grade Level                                    TestTakers                Mean Score                        MetBenchmarks¹
+                                              Number     Percent      Total     ERW        Math       Both      ERW       Math      None
+    10th Grade                                274,062      50%         908       456        452      33%        57%        36%       40%
+    11th Grade                                242,731      44%         971       488        483      35%        60%        37%       38%
+    Other/No Response                          34,890        6%        918       461        456
+
+   Race/Ethnicity                                 TestTakers                Mean Score
+   Total                                      Number     Percent      Total     ERW        Math
+    AmericanIndian/AlaskaNative                  5,787       1%        823       409        415
+    Asian                                      33,909        6%       1104       544        560
+    Black/AfricanAmerican                      55,453       10%        858       431        428
+    Hispanic/Latino                           257,695       47%        887       443        444
+    NativeHawaiian/OtherPacificIslander          1,026       0%        885       443        442
+    White                                     157,356       29%       1023       520        503
+    TwoorMoreRaces                             17,183        3%        994       505        489
+    No Response                                23,274        4%        833       415        418
+
+                                                  TestTakers                Mean Score                         MetBenchmarks¹
+   10th Grade                                 Number     Percent      Total     ERW        Math       Both      ERW       Math      None
+    AmericanIndian/AlaskaNative                  3,223       1%        811        403       408       13%       34%        15%       64%
+    Asian                                      16,158        6%       1072        530       542       68%       81%        72%       15%
+    Black/AfricanAmerican                      28,397       10%        835        419       417       17%       42%        19%       56%
+    Hispanic/Latino                           127,742       47%        862        430       432       23%       47%        26%       50%
+    NativeHawaiian/OtherPacificIslander           538        0%        850        425       425       20%       47%        22%       51%
+    White                                      75,349       27%        993        506       488       52%       78%        54%       20%
+    TwoorMoreRaces                               8,571       3%        965        491       475       45%       73%        46%       25%
+    No Response                                14,084        5%        822        409       413       16%       37%        19%       61%
+
+                                                  TestTakers                Mean Score                         MetBenchmarks¹
+   11th Grade                                 Number     Percent      Total     ERW        Math       Both      ERW       Math      None
+    AmericanIndian/AlaskaNative                  2,262       1%        843        418       425       13%       31%        14%       68%
+    Asian                                      15,384        6%       1145        562       582       69%       82%        73%       14%
+    Black/AfricanAmerican                      24,595       10%        886        445       441       18%       43%        19%       55%
+    Hispanic/Latino                           115,383       48%        918        460       458       24%       49%        26%       48%
+    NativeHawaiian/OtherPacificIslander           432        0%        930        465       465       24%       51%        26%       47%
+    White                                      71,685       30%       1057        537       520       53%       79%        54%       20%
+    TwoorMoreRaces                               7,326       3%       1032        524       508       46%       74%        47%       25%
+    No Response                                  5,664       2%        861        430       431       17%       35%        18%       64%
+
+¹Basedongrade-levelbenchmarks.
+                                                                                                      2018SATSuiteAnnualReport
+                                                                                                                                  Texas
+
+PSAT/NMSQTandPSAT10ParticipationandPerformance
+DatareflectstudentswhotookthePSAT/NMSQTand/orPSAT10duringthe2017-18schoolyear.Ifastudenttestedmorethanonce,
+themostrecentscoreandself-reportedquestionnaireresponsesaresummarized.
+
+   FirstLanguageLearned                        TestTakers                 Mean Score                          MetBenchmarks¹
+   10th Grade                              Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    English Only                           153,264       56%        936        473        462       39%        65%        41%        33%
+    EnglishandAnotherLanguage               62,345       23%        888        442        446       28%        51%        31%        46%
+    AnotherLanguage                         37,954       14%        869        428        441       25%        45%        29%        51%
+    No Response                             20,499        7%        833        415        418       19%        40%        21%        58%
+                                               TestTakers                 Mean Score                          MetBenchmarks¹
+   11th Grade                              Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    English Only                           144,799       60%        997        505        492       40%        67%        42%        32%
+    EnglishandAnotherLanguage               57,326       24%        944        472        472       29%        53%        31%        45%
+    AnotherLanguage                         36,844       15%        930        459        471       27%        48%        31%        49%
+    No Response                              3,762        2%        820        408        411       10%        26%        11%        72%
+
+   HighestLevelofParentalEducation             TestTakers                 Mean Score                          MetBenchmarks¹
+   10th Grade                              Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    NoHighSchoolDiploma                     40,290       15%        819        404        415       14%        35%        17%        62%
+    HighSchoolDiploma                       79,442       29%        870        436        434       24%        51%        26%        46%
+    Associate Degree                        16,974        6%        909        458        451       32%        62%        35%        35%
+    Bachelor's Degree                       62,800       23%        988        501        487       52%        77%        54%        20%
+    Graduate Degree                         38,052       14%       1036        525        511       61%        81%        62%        17%
+    No Response                             36,504       13%        816        405        411       15%        36%        18%        62%
+
+                                               TestTakers                 Mean Score                          MetBenchmarks¹
+   11th Grade                              Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    NoHighSchoolDiploma                     36,441       15%        865        428        437       14%        35%        17%        62%
+    HighSchoolDiploma                       76,775       32%        919        462        458       24%        51%        26%        47%
+    Associate Degree                        17,523        7%        957        483        474       30%        61%        32%        37%
+    Bachelor's Degree                       62,345       26%       1047        530        517       51%        77%        53%        21%
+    Graduate Degree                         37,965       16%       1109        560        549       62%        82%        64%        16%
+    No Response                             11,682        5%        819        406        412        9%        26%        11%        72%
+
+   HighSchoolGradePointAverage                 TestTakers                 Mean Score                          MetBenchmarks¹
+   10th Grade                              Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    A+ (97­100)                             13,204        5%       1116        565        551       78%        88%        79%        11%
+    A (93­96)                               44,244       16%       1040        526        513       65%        84%        66%        14%
+    A-(90­92)                               47,532       17%        964        487        477       46%        75%        49%        22%
+    B (80­89)                              114,588       42%        862        432        431       21%        50%        24%        47%
+    C (70­79)                               27,525       10%        773        382        391        6%        23%         7%        75%
+    D,E,orF(below70)                         1,859        1%        735        362        373        4%        14%         5%        84%
+    No Response                             25,110        9%        829        412        416       18%        38%        20%        59%
+
+                                               TestTakers                 Mean Score                          MetBenchmarks¹
+   11th Grade                              Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    A+ (97­100)                             16,477        7%       1188        599        590       80%        92%        81%         8%
+    A (93­96)                               42,416       17%       1096        554        543       62%        84%        64%        15%
+    A-(90­92)                               46,112       19%       1021        515        506       45%        74%        48%        24%
+    B (80­89)                              108,957       45%        910        457        453       20%        49%        23%        49%
+    C (70­79)                               21,662        9%        811        403        408        6%        23%         7%        76%
+    D,E,orF(below70)                          927         0%        768        380        389        2%        15%         3%        84%
+    No Response                              6,180        3%        844        421        423       14%        32%        16%        67%
+
+¹Basedongrade-levelbenchmarks.
+                                                                                                         2018SATSuiteAnnualReport
+                                                                                                                                     Texas
+
+PSAT/NMSQTandPSAT10ParticipationandPerformance:ScoreDistributionsbySubgroup-11thGrade
+DatareflectstudentswhotookthePSAT/NMSQTand/orPSAT10duringthe2017-18schoolyear.Ifastudenttestedmorethanonce,
+themostrecentscoreissummarized.
+                                                                                                                             Two or
+                      TotalStudentsFemale                  American              African               NativeMaleIndianAsianAmericanHispanicHawaiianWhiteMoreRaces
+ TestTakers          242,731    124,306    118,297          2,262     15,384     24,595     115,383     432       71,685      7,326
+
+ TotalScore
+   1400­1520            2%         2%         3%             1%         15%        0%         1%         2%         4%         4%
+   1200­1390           11%        11%        11%             2%         27%        4%         5%         6%        19%        16%
+   1000­1190           29%        30%        28%             15%        32%        20%        25%       25%        40%        36%
+   800­990             38%        40%        36%             37%        20%        44%        45%       42%        29%        34%
+   600­790             18%        17%        20%             42%        5%         29%        23%       24%         8%        10%
+   320­590              1%         1%         1%             3%         0%         2%         1%         1%         0%         0%
+
+  SectionScores-ERW
+   700­760              3%         3%         3%              1%        13%        0%         1%         2%         5%         4%
+   600­690             14%        15%        14%              3%        29%        6%         8%         8%         24%       21%
+   500­590             30%        32%        28%             16%        31%        23%        27%        28%        38%       36%
+   400­490             31%        32%        30%             31%        18%        37%        37%        34%        23%       26%
+   300­390             20%        18%        22%             44%        8%         30%        26%        25%        9%        11%
+   160­290              2%         1%         2%              4%        0%         4%         2%         2%         1%         1%
+
+  Section(Test)Scores-Math¹
+   700­760 (35­38)      3%         2%         4%              1%        21%        0%         1%         2%         4%         5%
+   600­690 (30­34.5)   10%         9%        11%              3%        25%        4%         5%         7%         17%       13%
+   500­590 (25­29.5)   28%        27%        28%             13%        30%        18%        24%        21%        37%       33%
+   400­490 (20­24.5)   43%        46%        40%             49%        19%        51%        50%        50%        34%       39%
+   300­390 (15­19.5)   15%        15%        16%             32%        4%         25%        19%        19%        7%         9%
+   160­290 (8­14.5)     1%         1%         1%              3%        0%         2%         1%         1%         0%         1%
+
+  TestScores-Reading
+   35­38                3%         3%         4%              1%        12%        1%         1%         1%         6%         5%
+   30­34               15%        15%        16%              4%        29%        7%         9%         11%        26%       23%
+   25­29               29%        31%        28%             17%        31%        23%        26%        27%        36%       35%
+   20­24               33%        35%        31%             38%        21%        39%        39%        38%        24%       27%
+   15­19               17%        15%        19%             36%        7%         26%        22%        22%        8%        10%
+   8­14                 2%         1%         2%              4%        1%         3%         2%         2%         1%         1%
+
+  TestScores-WritingandLanguage
+   35­38                4%         4%         4%              1%        16%        1%         1%         2%         7%         6%
+   30­34               15%        17%        14%              4%        30%        8%         9%         11%        25%       22%
+   25­29               31%        33%        30%             18%        29%        26%        29%        28%        38%       37%
+   20­24               26%        26%        26%             27%        15%        31%        31%        28%        19%       22%
+   15­19               21%        18%        23%             42%        9%         29%        26%        25%        10%       12%
+   8­14                 3%         2%         4%              8%        1%         6%         4%         6%         1%         2%
+
+¹TheMathTestscoreisfoundbydividingtheMathsectionscoreby20.
+                                                                                                         2018SATSuiteAnnualReport
+                                                                                                                                     Texas
+
+PSAT/NMSQTandPSAT10ParticipationandPerformance:ScoreDistributionsbySubgroup-10thGrade
+DatareflectstudentswhotookthePSAT/NMSQTand/orPSAT10duringthe2017-18schoolyear.Ifastudenttestedmorethanonce,
+themostrecentscoreissummarized.
+                                                                                                                             Two or
+                      TotalStudentsFemale                  American              African               NativeMaleIndianAsianAmericanHispanicHawaiianWhiteMoreRaces
+ TestTakers          274,062    137,466    136,204          3,223     16,158     28,397     127,742     538       75,349      8,571
+
+ TotalScore
+   1400­1520            1%         1%         1%             0%         6%         0%         0%         0%         1%         1%
+   1200­1390            6%         6%         6%             1%         22%        1%         2%         2%        11%         9%
+   1000­1190           23%        24%        22%             10%        36%        13%        17%       14%        38%        32%
+   800­990             40%        43%        38%             38%        25%        42%        44%       42%        37%        41%
+   600­790             28%        25%        30%             48%        9%         40%        35%       38%        12%        16%
+   320­590              2%         1%         2%             3%         1%         3%         2%         3%         1%         1%
+
+  SectionScores-ERW
+   700­760              1%         1%         1%              0%        5%         0%         0%         0%         2%         2%
+   600­690              9%         9%         8%              2%        24%        3%         4%         5%         16%       14%
+   500­590             25%        27%        23%             12%        34%        16%        19%        15%        38%       33%
+   400­490             34%        35%        32%             32%        23%        36%        37%        38%        30%       33%
+   300­390             29%        26%        32%             48%        12%        40%        36%        38%        13%       17%
+   160­290              3%         2%         4%              5%        1%         5%         4%         4%         1%         1%
+
+  Section(Test)Scores-Math¹
+   700­760 (35­38)      1%         1%         1%              0%        10%        0%         0%         1%         1%         1%
+   600­690 (30­34.5)    5%         5%         6%              1%        21%        1%         2%         2%         9%         8%
+   500­590 (25­29.5)   22%        22%        22%             10%        35%        12%        16%        12%        35%       29%
+   400­490 (20­24.5)   47%        49%        45%             47%        26%        50%        52%        51%        43%       46%
+   300­390 (15­19.5)   23%        22%        23%             39%        7%         33%        27%        30%        11%       15%
+   160­290 (8­14.5)     2%         2%         2%              3%        1%         4%         2%         4%         1%         1%
+
+  TestScores-Reading
+   35­38                1%         1%         1%              0%        6%         0%         0%         0%         3%         2%
+   30­34               10%        10%        10%              3%        24%        4%         5%         5%         18%       15%
+   25­29               25%        27%        23%             13%        33%        17%        20%        19%        37%       33%
+   20­24               36%        38%        35%             38%        25%        40%        41%        38%        30%       34%
+   15­19               24%        22%        27%             41%        10%        34%        30%        34%        11%       14%
+   8­14                 3%         2%         4%              5%        1%         5%         3%         4%         1%         1%
+
+  TestScores-WritingandLanguage
+   35­38                1%         1%         1%              0%        7%         0%         0%         0%         2%         2%
+   30­34               10%        11%         8%              3%        25%        4%         5%         5%         18%       15%
+   25­29               27%        29%        24%             15%        34%        19%        21%        18%        38%       34%
+   20­24               28%        29%        28%             28%        19%        31%        31%        36%        25%       27%
+   15­19               29%        26%        31%             45%        13%        38%        36%        35%        15%       18%
+   8­14                 5%         4%         7%             10%        2%         8%         7%         6%         2%         3%
+
+¹TheMathTestscoreisfoundbydividingtheMathsectionscoreby20.
+                                                                                                     2018SATSuiteAnnualReport
+                                                                                                                                 Texas
+
+PSAT/NMSQTandPSAT10ParticipationandPerformance:IntendedCollegeMajor-10thand11thGrades
+DatareflectstudentswhotookthePSAT/NMSQTand/orPSAT10duringthe2017-18schoolyear.Ifastudenttestedmorethanonce,
+themostrecentself-reportedquestionnaireresponseissummarized.
+                                                                       10th Grade                               11th Grade
+Intended College Major                                         TestTakers         Percent               TestTakers          Percent
+
+ Agriculture,AgricultureOperations,andRelatedSciences                   7,446           3%                        6,195           3%
+ Architecture and Related Services                                      6,517           3%                        5,198           2%
+ Area,Ethnic,Cultural,andGenderStudies                                    471           0%                         303            0%
+ BiologicalandBiomedicalSciences                                       19,701           9%                       17,592           8%
+ Business,Management,Marketing,andRelatedSupportServices               25,402          11%                       26,560          12%
+ Communication,Journalism,andRelatedPrograms                            4,605           2%                        4,261           2%
+ ComputerandInformationSciencesandSupportServices                       7,816           3%                        7,969           3%
+ ConstructionTrades,General                                                 2           0%                          37            0%
+ Education                                                              7,369           3%                        8,587           4%
+ Engineering                                                           29,339          13%                       29,045          13%
+ Engineering Technologies/Technicians                                   5,439           2%                        4,186           2%
+ English Language and Literature/Letters                                1,592           1%                        1,539           1%
+ FamilyandConsumerSciences/HumanSciences                                1,501           1%                        1,194           1%
+ ForeignLanguagesandLiteratures,General                                 1,189           1%                        1,086           0%
+ HealthProfessionsandRelatedClinicalSciences                           37,746          16%                       44,095          19%
+ History,General                                                          748           0%                         965            0%
+ LegalStudies,General                                                   3,673           2%                        3,618           2%
+ LiberalArtsandSciences,GeneralStudiesandHumanities                       313           0%                         538            0%
+ Library Science/Librarianship                                              1           0%                          12            0%
+ MathematicsandStatistics                                               1,166           1%                        1,289           1%
+ MechanicandRepairTechnologies/Technicians                                  2           0%                         164            0%
+ MilitaryTechnologies                                                   1,193           1%                        1,046           0%
+ Multi/InterdisciplinaryStudies                                           282           0%                         332            0%
+ NaturalResourcesandConservation                                          626           0%                         816            0%
+ Parks,RecreationandLeisureStudies                                      1,809           1%                        1,647           1%
+ PersonalAndCulinaryServices,General                                      226           0%                         388            0%
+ Philosophy and Religious Studies                                         391           0%                         457            0%
+ PhysicalSciences                                                       2,256           1%                        2,378           1%
+ Precision Production                                                       0                                        5            0%
+ Psychology,General                                                     5,260           2%                        6,748           3%
+ PublicAdministrationandSocialServiceProfessions                          978           0%                        1,076           0%
+ Security and Protective Services                                      11,024           5%                       11,052           5%
+ SocialSciences                                                         2,047           1%                        2,620           1%
+ Theology and Religious Vocations                                         191           0%                         319            0%
+ TransportationandMaterialsMoving                                           4           0%                          34            0%
+ VisualandPerformingArts,General                                       20,059           9%                       18,730           8%
+ Other                                                                  4,286           2%                        4,029           2%
+ Undecided                                                             17,555           8%                       13,973           6%
+                                                                                                      2018SATSuiteAnnualReport
+                                                                                                                                  Texas
+
+PSAT8/9ParticipationandPerformance
+DatareflectstudentswhotookthePSAT8/9duringthe2017-18schoolyear.IfastudenttookthePSAT8/9morethanonceduringthe
+schoolyear,themostrecentscoreandself-reportedquestionnaireresponsesaresummarized.
+
+   Total                                           TestTakers               Mean Score
+                                               Number                 Total      ERW       Math
+    Total                                      288,797                 819        407       411
+       Fall                                    275,044                 816        406       410
+       Spring                                   14,439                 875        437       438
+
+   Sex                                            TestTakers                Mean Score
+                                              Number     Percent      Total      ERW       Math
+    Female                                    142,616       49%        827        416       411
+    Male                                      144,779       50%        811        400       412
+    No Response                                 1,402        0%        733        364       369
+
+   Grade Level                                    TestTakers                Mean Score                         MetBenchmarks¹
+                                              Number     Percent      Total      ERW       Math       Both      ERW        Math      None
+    8th Grade                                 171,520       59%        800        398       402       32%       50%        38%        44%
+    9th Grade                                 112,122       39%        850        424       426       34%       53%        40%        42%
+    Other/NoResponse                            5,155        2%        755        380       375
+
+   Race/Ethnicity                                 TestTakers                Mean Score
+   Total                                      Number     Percent      Total      ERW       Math
+    AmericanIndian/AlaskaNative                 2,699        1%        768        379       389
+    Asian                                      13,582        5%        976        482       495
+    Black/AfricanAmerican                      34,482       12%        763        379       384
+    Hispanic/Latino                           133,064       46%        788        389       398
+    NativeHawaiian/OtherPacificIslander           385        0%        783        388       395
+    White                                      64,542       22%        898        454       444
+    TwoorMoreRaces                              7,382        3%        872        439       433
+    No Response                                32,661       11%        775        384       390
+
+                                                  TestTakers                Mean Score                        MetBenchmarks¹
+   8th Grade                                  Number     Percent      Total      ERW       Math       Both      ERW        Math      None
+    AmericanIndian/AlaskaNative                 1,538        1%        762        376       386       22%       40%        29%        53%
+    Asian                                       7,405        4%        955        472       483       69%       80%        75%        14%
+    Black/AfricanAmerican                      18,409       11%        743        368       374       17%       36%        23%        59%
+    Hispanic/Latino                            76,765       45%        770        380       390       24%       42%        31%        51%
+    NativeHawaiian/OtherPacificIslander           202        0%        770        383       386       21%       44%        28%        49%
+    White                                      37,408       22%        871        439       432       50%       71%        55%        24%
+    TwoorMoreRaces                              3,750        2%        849        427       422       44%       65%        49%        30%
+    No Response                                26,043       15%        779        387       392       27%       45%        33%        49%
+
+                                                  TestTakers                Mean Score                         MetBenchmarks¹
+   9th Grade                                  Number     Percent      Total      ERW       Math       Both      ERW        Math      None
+    AmericanIndian/AlaskaNative                 1,124        1%        778        384       394       18%       35%        22%        60%
+    Asian                                       6,002        5%       1005        494       511       71%       81%        76%        13%
+    Black/AfricanAmerican                      15,628       14%        788        392       396       20%       39%        24%        56%
+    Hispanic/Latino                            54,523       49%        813        403       411       26%       44%        31%        50%
+    NativeHawaiian/OtherPacificIslander           179        0%        798        394       404       23%       40%        30%        54%
+    White                                      26,377       24%        938        476       462       56%       76%        59%        20%
+    TwoorMoreRaces                              3,534        3%        899        453       446       45%       68%        49%        28%
+    No Response                                 4,755        4%        770        381       389       18%       33%        23%        62%
+
+¹Basedongrade-levelbenchmarks.
+                                                                                                      2018SATSuiteAnnualReport
+                                                                                                                                  Texas
+
+PSAT8/9ParticipationandPerformance
+DatareflectstudentswhotookthePSAT8/9duringthe2017-18schoolyear.IfastudenttookthePSAT8/9morethanonceduringthe
+schoolyear,themostrecentscoreandself-reportedquestionnaireresponsesaresummarized.
+
+   FirstLanguageLearned                        TestTakers                 Mean Score                          MetBenchmarks¹
+   8th Grade                               Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    English Only                            71,133       41%        824        413        411       38%        58%        43%        36%
+    EnglishandAnotherLanguage               36,148       21%        786        388        399       28%        45%        35%        48%
+    AnotherLanguage                         18,284       11%        775        379        396       25%        41%        34%        51%
+    No Response                             45,955       27%        783        389        395       28%        46%        34%        48%
+                                               TestTakers                 Mean Score                          MetBenchmarks¹
+   9th Grade                               Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    English Only                            63,793       57%        872        438        434       40%        60%        44%        36%
+    EnglishandAnotherLanguage               27,574       25%        834        412        421       30%        47%        36%        47%
+    AnotherLanguage                         14,834       13%        819        401        419       28%        42%        35%        51%
+    No Response                              5,921        5%        763        377        387       17%        32%        21%        64%
+
+   HighSchoolGradePointAverage                 TestTakers                 Mean Score                          MetBenchmarks¹
+   8th Grade                               Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    A+ (97­100)                              4,886        3%        973        489        485       71%        80%        74%        17%
+    A (93­96)                               19,192       11%        920        463        458       65%        81%        70%        14%
+    A-(90­92)                               18,764       11%        847        423        424       46%        68%        53%        25%
+    B (80­89)                               48,372       28%        766        380        387       21%        43%        28%        49%
+    C (70­79)                               15,206        9%        694        340        354        5%        18%        11%        77%
+    D,E,orF(below70)                         1,815        1%        668        327        342        4%        12%         8%        84%
+    No Response                             63,285       37%        791        393        398       29%        48%        35%        46%
+
+                                               TestTakers                 Mean Score                          MetBenchmarks¹
+   9th Grade                               Number     Percent      Total      ERW        Math       Both       ERW        Math      None
+    A+ (97­100)                              3,797        3%       1033        518        515       74%        80%        75%        18%
+    A (93­96)                               15,988       14%        998        502        496       72%        85%        75%        12%
+    A-(90­92)                               17,432       16%        923        463        460       54%        75%        59%        20%
+    B (80­89)                               45,652       41%        821        409        412       25%        48%        31%        45%
+    C (70­79)                               15,287       14%        734        362        372        7%        22%        12%        74%
+    D,E,orF(below70)                         1,830        2%        694        341        353        4%        14%         7%        83%
+    No Response                             12,136       11%        771        381        390       18%        33%        23%        62%
+
+¹Basedongrade-levelbenchmarks.
+                                                                                                        2018SATSuiteAnnualReport
+                                                                                                                                     Texas
+
+PSAT8/9ParticipationandPerformance:ScoreDistributionsbySubgroup-9thGrade
+DatareflectstudentswhotookthePSAT8/9duringthe2017-18schoolyear.IfastudenttookthePSAT8/9morethanonce,themost
+recentscoreandself-reportedquestionnaireresponsesaresummarized.                                                              Two or
+                      TotalStudentsFemale                  American              African               NativeMaleIndianAsianAmericanHispanicHawaiianWhiteMoreRaces
+ TestTakers          112,122     55,251     56,618          1,124      6,002     15,628     54,523      179       26,377      3,534
+
+ TotalScore
+   1400­1440            0%         0%         0%             0%         0%         0%         0%         0%         0%         0%
+   1200­1390            3%         2%         3%             0%         15%        0%         1%         1%         5%         4%
+   1000­1190           17%        18%        17%             7%         38%        8%         11%        9%        32%        23%
+   800­990             39%        42%        37%             35%        35%        36%        39%       38%        43%        46%
+   600­790             36%        34%        38%             50%        11%        48%        44%       44%        18%        24%
+   240­590              4%         3%         6%             8%         1%         7%         5%         8%         2%         3%
+
+  SectionScores-ERW
+   700­720              0%         0%         0%              0%        0%         0%         0%         0%         0%         0%
+   600­690              5%         5%         4%              1%        15%        1%         2%         2%         10%        7%
+   500­590             19%        20%        17%             10%        36%        11%        13%        12%        34%       26%
+   400­490             34%        36%        32%             29%        33%        32%        34%        31%        36%       39%
+   300­390             37%        34%        39%             50%        15%        47%        45%        46%        19%       26%
+   120­290              6%         4%         8%             10%        2%         9%         7%         9%         2%         3%
+
+  Section(Test)Scores-Math¹
+   700­720 (35­36)      0%         0%         0%              0%        3%         0%         0%         0%         0%         1%
+   600­690 (30­34.5)    3%         2%         3%              1%        16%        1%         1%         1%         5%         4%
+   500­590 (25­29.5)   17%        16%        17%              7%        37%        9%         12%        9%         28%       21%
+   400­490 (20­24.5)   43%        45%        41%             41%        32%        40%        44%        41%        46%       48%
+   300­390 (15­19.5)   32%        32%        32%             44%        10%        43%        37%        40%        18%       23%
+   120­290 (6­14.5)     5%         4%         5%              7%        1%         8%         5%         8%         2%         3%
+
+  TestScores-Reading
+   35­36                0%         0%         0%              0%        2%         0%         0%         0%         1%         1%
+   30­34                6%         6%         5%              1%        17%        2%         3%         3%         12%        8%
+   25­29               21%        22%        20%             12%        36%        13%        15%        11%        35%       28%
+   20­24               34%        36%        33%             33%        30%        32%        35%        37%        34%       38%
+   15­19               35%        33%        37%             46%        14%        46%        42%        41%        17%       23%
+   6­14                 4%         3%         5%              7%        1%         6%         5%         8%         1%         2%
+
+  TestScores-WritingandLanguage
+   35­36                0%         0%         0%              0%        1%         0%         0%         0%         0%         0%
+   30­34                5%         5%         4%              1%        15%        2%         2%         1%         10%        8%
+   25­29               20%        22%        18%             12%        36%        12%        14%        15%        34%       27%
+   20­24               32%        35%        30%             26%        31%        32%        33%        32%        33%       36%
+   15­19               34%        31%        37%             47%        15%        42%        41%        42%        19%       24%
+   6­14                 8%         6%        11%             14%        2%         12%        10%        9%         3%         5%
+
+¹TheMathTestscoreisfoundbydividingtheMathsectionscoreby20.
+                                                                                                        2018SATSuiteAnnualReport
+                                                                                                                                     Texas
+
+PSAT8/9ParticipationandPerformance:ScoreDistributionsbySubgroup-8thGrade
+DatareflectstudentswhotookthePSAT8/9duringthe2017-18schoolyear.IfastudenttookthePSAT8/9morethanonce,themost
+recentscoreandself-reportedquestionnaireresponsesaresummarized.                                                              Two or
+                      TotalStudentsFemale                  American              African               NativeMaleIndianAsianAmericanHispanicHawaiianWhiteMoreRaces
+ TestTakers          171,520     85,189     86,175          1,538      7,405     18,409     76,765      202       37,408      3,750
+ TotalScore
+   1400­1440            0%         0%         0%             0%         0%         0%         0%         0%         0%         0%
+   1200­1390            1%         1%         1%             0%         9%         0%         0%         0%         2%         2%
+   1000­1190           10%        10%        10%             5%         31%        3%         5%         5%        20%        16%
+   800­990             36%        38%        34%             31%        40%        27%        33%       33%        46%        43%
+   600­790             47%        46%        48%             54%        18%        60%        55%       52%        30%        36%
+   240­590              6%         5%         7%             9%         1%         10%        7%         9%         3%         3%
+
+  SectionScores-ERW
+   700­720              0%         0%         0%              0%        0%         0%         0%         0%         0%         0%
+   600­690              2%         2%         2%              0%        10%        1%         1%         0%         4%         3%
+   500­590             12%        13%        11%              8%        31%        5%         7%         8%         23%       20%
+   400­490             31%        33%        29%             27%        35%        25%        29%        30%        39%       37%
+   300­390             47%        46%        49%             54%        21%        58%        55%        51%        31%       36%
+   120­290              7%         5%         9%             11%        2%         12%        9%         10%        3%         4%
+
+  Section(Test)Scores-Math¹
+   700­720 (35­36)      0%         0%         0%              0%        2%         0%         0%         0%         0%         0%
+   600­690 (30­34.5)    1%         1%         1%              0%        10%        0%         0%         0%         2%         2%
+   500­590 (25­29.5)   10%         9%        10%              5%        32%        4%         6%         8%         17%       15%
+   400­490 (20­24.5)   41%        42%        40%             37%        40%        32%        39%        36%        48%       44%
+   300­390 (15­19.5)   42%        42%        41%             48%        15%        53%        47%        46%        29%       34%
+   120­290 (6­14.5)     7%         6%         7%              9%        2%         11%        7%         10%        3%         5%
+
+  TestScores-Reading
+   35­36                0%         0%         0%              0%        1%         0%         0%         0%         0%         0%
+   30­34                3%         3%         3%              1%        12%        1%         1%         1%         6%         5%
+   25­29               14%        15%        14%             10%        33%        7%         9%         11%        26%       22%
+   20­24               33%        34%        32%             31%        34%        27%        32%        35%        39%       38%
+   15­19               44%        44%        45%             51%        19%        56%        52%        48%        27%       33%
+   6­14                 5%         4%         6%              7%        2%         8%         6%         4%         2%         3%
+
+  TestScores-WritingandLanguage
+   35­36                0%         0%         0%              0%        1%         0%         0%         0%         0%         0%
+   30­34                2%         3%         2%              1%        11%        1%         1%         0%         5%         4%
+   25­29               13%        15%        12%              9%        31%        6%         8%         9%         24%       20%
+   20­24               30%        33%        27%             26%        34%        26%        29%        28%        36%       35%
+   15­19               43%        41%        45%             48%        21%        51%        50%        48%        29%       33%
+   6­14                11%         8%        14%             16%        3%         16%        13%        14%        5%         7%
+
+¹TheMathTestscoreisfoundbydividingtheMathsectionscoreby20.
+                                                                                                   2018SATSuiteAnnualReport
+                                                                                                                                 Texas
+
+SATSuitePerformance:InterquartileRanges
+Comparingthe25thpercentilepointtothe75thpercentilepointgivesanideaoftherangeofperformanceinagroup.SATdatareflect
+2018highschoolgraduateswhotookthenewSATduringhighschool.PSAT/NMSQTandPSAT10datareflect10thor11thgrade
+studentswhotookthePSAT/NMSQTand/orPSAT10duringthe2017-18schoolyear.PSAT8/9datareflect8thor9thgradestudents
+whotookthePSAT8/9duringthe2017-18schoolyear.Ifastudenttooktherespectiveassessmentmorethanonce,themostrecent
+scoreissummarized.
+
+SAT                                                Section__________________                                Analysis inHistory/WritingandSocialAnalysis in
+  Percentile                      Total        ERW          Math        Reading     Language       Math       Studies      Science
+
+   75th                          1160          590          580           30           30           29           30           30
+   50th                          1020          520          510           26           26         25.5           26           26
+   25th                           890          440          440           22           22           22           22           22
+
+PSAT/NMSQTandPSAT10-Grade11                        Section__________________                                Analysis inHistory/WritingandSocialAnalysis in
+  Percentile                      Total        ERW          Math        Reading     Language       Math       Studies      Science
+
+   75th                          1100          560          540           28           28           27           29           28
+   50th                           960          490          470           24           25         23.5           24           24
+   25th                           830          410          420           20           20           21           21           21
+
+PSAT/NMSQTandPSAT10-Grade10                        Section__________________                                Analysis inHistory/WritingandSocialAnalysis in
+  Percentile                      Total        ERW          Math        Reading     Language       Math       Studies      Science
+
+   75th                          1030          530          510           26           27         25.5           26           26
+   50th                           890          450          440           23           23           22           22           22
+   25th                           780          380          400           19           19           20           20           20
+
+PSAT8/9-Grade9                                     Section__________________                                Analysis inHistory/WritingandSocialAnalysis in
+  Percentile                      Total        ERW          Math        Reading     Language       Math       Studies      Science
+
+   75th                           960          490          480           25           25           24           24           24
+   50th                           830          410          430           21           20         21.5           20           21
+   25th                           730          350          380           18           17           19           18           18
+
+PSAT8/9-Grade8                                     Section                                                  Analysis in__________________WritingandHistory/SocialAnalysis in
+  Percentile                      Total        ERW          Math        Reading     Language       Math       Studies      Science
+
+   75th                           890          450          450           23           23         22.5           22           22
+   50th                           780          390          400           20           19           20           19           19
+   25th                           700          340          360           17           16           18           17           17
+
